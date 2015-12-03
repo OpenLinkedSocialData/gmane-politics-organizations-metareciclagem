@@ -1,0 +1,22 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-politics-organizations-metareciclagem> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-politics-organizations-metareciclagem" ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/gmane-politics-organizations-metareciclagem"^^xsd:string ;
+    po:createdAt "2015-12-03T03:10:57.260247"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and list admins"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/base/gmane.politics.organizations.metareciclagem"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T03:10:57.260939"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.politics.organizations.metareciclagem"^^xsd:string .
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-politics-organizations-metareciclagem">
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/gmane-politics-organizations-metareciclagem</po:availableAt>
+    <rdfs:label>Snapshot gmane-politics-organizations-metareciclagem</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemTranslate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemTranslate.ttl</po:ttlFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T03:10:57.260939</po:triplifiedIn>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and list admins</po:donatedBy>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/base/gmane.politics.organizations.metareciclagem</po:originalFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T03:10:57.260247</po:createdAt>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-politics-organizations-metareciclagem/master/rdf/gmane-politics-organizations-metareciclagemMeta.ttl</po:discoveryTTLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.politics.organizations.metareciclagem</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>
